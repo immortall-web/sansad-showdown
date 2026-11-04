@@ -29,23 +29,31 @@
 ## 🕹️ Control Reference
 
 ### Player 1 (1P)
-| Action | Keybinding |
-| :--- | :--- |
-| **Move Left / Right** | `A` / `D` |
-| **Punch** | `J` |
-| **Kick** | `K` |
-| **Special Ability** | `I` |
-| **Max Shakti Ultimate** | `L` *(Unlocks at 100% Shakti Gauge)* |
+| Action                  | Keybinding                              |
+| :---------------------- | :-------------------------------------- |
+| **Move Left / Right**   | `A` / `D`                               |
+| **Jump**                | `W`                                     |
+| **Punch**               | `J`                                     |
+| **Kick**                | `K`                                     |
+| **Special Ability**     | `I`                                     |
+| **Max Shakti Ultimate** | `L` *(Unlocks at 100% Shakti Gauge)*    |
 
-### Player 2 (2P - Versus Mode)
-| Action | Keybinding |
-| :--- | :--- |
-| **Move Left / Right** | `Left Arrow` / `Right Arrow` |
-| **Punch** | `N` |
-| **Kick** | `M` |
+### Player 2 (2P — Versus Mode)
+| Action                  | Keybinding                              |
+| :---------------------- | :-------------------------------------- |
+| **Move Left / Right**   | `←` Left Arrow / `→` Right Arrow        |
+| **Jump**                | `↑` Up Arrow                            |
+| **Punch**               | `N`                                     |
+| **Kick**                | `M`                                     |
+| **Special Ability**     | `,` (Comma)                             |
+| **Max Shakti Ultimate** | `.` (Period) *(Unlocks at 100% Shakti)* |
 
 ### System Commands
-* **Toggle Audio Mute:** `T`
+| Action                  | Keybinding                              |
+| :---------------------- | :-------------------------------------- |
+| **Toggle Audio Mute**   | `T`                                     |
+| **Quit Match**          | `Esc`                                   |
+| **View Full Controls**  | `C` *(on Mode Select screen)*           |
 
 ---
 
