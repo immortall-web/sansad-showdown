@@ -54,15 +54,19 @@
 ### Prerequisites
 Ensure you have Python 3.8 or higher installed on your local machine.
 
-### Clone the repository 
+### 1.Clone the repository 
 ```
 git clone https://github.com/immortall-web/sansad-showdown
 ```
-### 1. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install textual pygame
 ```
-### 2. Run the Game
+### 3. Go to Directory
+```bash
+ cd sansad-showdown
+```
+### 4. Run the Game
 ```bash
 python Sansad.py
 ```
