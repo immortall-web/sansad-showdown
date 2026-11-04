@@ -1,0 +1,125 @@
+
+Screen {
+    background: #090912;
+    color: #f0f0f5;
+}
+.center_box {
+    align: center middle;
+    padding: 2 4;
+    border: solid #ffaa00;
+    background: #121222;
+    width: 80%;
+    height: 85%;
+}
+#splash_title {
+    text-style: bold;
+    color: #ffcc00;
+    content-align: center middle;
+    margin-bottom: 1;
+}
+#splash_subtitle {
+    color: #55ff55;
+    text-style: bold;
+    content-align: center middle;
+    margin-top: 1;
+}
+#splash_text {
+    text-style: bold;
+    color: #00ffff;
+    content-align: center middle;
+    height: 12;
+    padding-top: 1;
+}
+#roster_container {
+    align: center middle;
+    width: 100%;
+    height: 100%;
+    padding: 2;
+}
+#roster_header {
+    text-style: bold;
+    color: #ffaa00;
+    content-align: center middle;
+    margin-bottom: 2;
+}
+#roster_flex {
+    layout: horizontal;
+    align: center middle;
+    height: 18;
+}
+#char_preview_box {
+    width: 35;
+    height: 15;
+    border-top: solid #00ffff;
+    background: #0d0d1a;
+    padding: 1 4;
+}
+.roster_info {
+    width: 40;
+    padding: 2;
+}
+#char_name_label {
+    text-style: bold;
+    content-align: center middle;
+    margin-bottom: 1;
+}
+#char_title_label {
+    color: #aaaaaa;
+    content-align: center middle;
+}
+#char_special_label {
+    color: #55ff55;
+    content-align: center middle;
+    margin-top: 1;
+}
+#roster_footer {
+    color: #8888aa;
+    content-align: center middle;
+    margin-top: 2;
+}
+#arena_main {
+    padding: 1 2;
+}
+#hud_container {
+    height: 6;
+    background: #111122;
+    border: solid #444466;
+    margin-bottom: 1;
+}
+.hud_panel {
+    width: 38%;
+    padding: 0 1;
+}
+.hud_center {
+    width: 24%;
+    content-align: center middle;
+}
+#stage_lbl {
+    text-style: bold;
+    color: #ffaa00;
+    content-align: center middle;
+}
+#arena_canvas {
+    height: 14;
+    background: #050510;
+    border: double #ff5555;
+    content-align: center middle;
+    color: #00ffcc;
+    margin-bottom: 1;
+}
+#battle_log {
+    height: 3;
+    background: #161628;
+    border: solid #00aaaa;
+    content-align: center middle;
+    color: #ffff55;
+    margin-bottom: 1;
+}
+#control_instructions {
+    height: 3;
+    background: #1a1a2e;
+    border: solid #8888aa;
+    content-align: center middle;
+    color: #00ffcc;
+    text-style: bold;
+}
