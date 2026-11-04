@@ -94,6 +94,6 @@ Architecture: Component-driven screen management, finite state machine (FSM) AI 
 
 ### 📜 Credits & Acknowledgments
 
-Original Concept: Inspired by and adapted from the satirical political fighter universe created by FightKaro.com.
+Inspired by and adapted from the satirical political fighter universe created by [FightKaro](https://fightkro.com).
 
-* **Terminal Engineering & Implementation:** Developed as the official terminal-based TUI port utilizing modern asynchronous Python patterns, through pure vibecoding and rapid experimental iteration, with architectural collaboration and code refinement by Gemini.
+**Terminal Engineering & Implementation:** Developed as the official terminal-based TUI port utilizing modern asynchronous Python patterns, through pure vibecoding and rapid experimental iteration, with architectural collaboration and code refinement by Gemini.
