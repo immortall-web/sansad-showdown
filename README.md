@@ -1,5 +1,5 @@
 # 🏛️ Sansad Showdown
-### *The Ultimate Political Arcade Fighter (Terminal Edition)*
+### *The Political Arcade Fighter (Terminal Edition)*
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Textual%20TUI-purple.svg)](https://textual.textualize.io/)
@@ -54,6 +54,10 @@
 ### Prerequisites
 Ensure you have Python 3.8 or higher installed on your local machine.
 
+### Clone the repository 
+```
+git clone https://github.com/immortall-web/sansad-showdown
+```
 ### 1. Install Dependencies
 ```bash
 pip install textual pygame
