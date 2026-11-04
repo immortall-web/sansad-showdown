@@ -68,7 +68,7 @@ pip install textual pygame
 ```
 ### 4. Run the Game
 ```bash
-python3 Sansad.py
+python3 sansad.py
 ```
 ###  Project Architecture 
 
