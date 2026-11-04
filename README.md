@@ -62,7 +62,7 @@
 ### Prerequisites
 Ensure you have Python 3.8 or higher installed on your local machine.
 
-### 1.Clone the repository 
+### 1. Clone the repository 
 ```
 git clone https://github.com/immortall-web/sansad-showdown
 ```
