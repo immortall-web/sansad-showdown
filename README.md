@@ -18,6 +18,12 @@
 
 ---
 
+## 🤝 Contributing
+
+**Forks and Pull Requests are welcome and encouraged.**
+
+This is a satirical community project — improvements, bug fixes, new characters, stages, balance tweaks, and polish are all appreciated.
+
 ## 🎮 Game Modes
 
 * **1. Arcade Campaign Mode:** Battle your way through 6 progressive stages—scaling from the *Lok Sabha Floor* to the *Secret Parliamentary Bunker (BOSS)* with escalating AI difficulty.
