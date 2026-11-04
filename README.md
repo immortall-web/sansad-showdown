@@ -80,6 +80,6 @@ Architecture: Component-driven screen management, finite state machine (FSM) AI 
 
 ### 📜 Credits & Acknowledgments
 
-Original Concept & Universe: Inspired by and adapted from the satirical political fighter universe created by FightKaro.com.
+Original Concept: Inspired by and adapted from the satirical political fighter universe created by FightKaro.com.
 
 Terminal Engineering & Implementation: Developed as the official terminal-based TUI port utilizing modern asynchronous Python patterns, with architectural collaboration and code refinement by Gemini.
